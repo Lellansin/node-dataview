@@ -1,6 +1,6 @@
 {
-  "name": "node-dataview",
-  "version": "0.0.1",
+  "name": "dataview",
+  "version": "0.0.2",
   "description": "简便查看数据图表",
   "main": "index.js",
   "directories": {
